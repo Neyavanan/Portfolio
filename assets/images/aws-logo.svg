@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="8" fill="#232F3E"/>
+  <path d="M12 40 L20 32 L12 24 L16 20 L28 32 L16 44 Z" fill="#FF9900"/>
+  <path d="M36 20 L48 32 L36 44 L40 40 L48 32 L40 24 Z" fill="#FF9900"/>
+  <rect x="18" y="48" width="28" height="4" rx="2" fill="#FF9900"/>
+  <text x="32" y="18" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" fill="#FF9900">AWS</text>
+</svg>

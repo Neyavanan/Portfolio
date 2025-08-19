@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="vscode-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0065A9"/>
+      <stop offset="100%" style="stop-color:#007ACC"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="8" fill="url(#vscode-gradient)"/>
+  <path d="M48 12l-8 4v8l8-4V12z" fill="#fff"/>
+  <path d="M16 20l24 12L16 44l8 4L48 32 24 16l-8 4z" fill="#fff"/>
+  <path d="M40 20v24l8-4V24l-8-4z" fill="#fff"/>
+</svg>

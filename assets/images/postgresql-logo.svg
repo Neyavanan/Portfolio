@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="8" fill="#336791"/>
+  <path d="M32 8c-8 0-16 4-16 12v20c0 8 8 12 16 12s16-4 16-12V20c0-8-8-12-16-12z" fill="#fff"/>
+  <path d="M32 12c-6 0-12 3-12 8v16c0 5 6 8 12 8s12-3 12-8V20c0-5-6-8-12-8z" fill="#336791"/>
+  <circle cx="28" cy="22" r="2" fill="#fff"/>
+  <circle cx="36" cy="22" r="2" fill="#fff"/>
+  <path d="M26 32h12v2H26z" fill="#fff"/>
+  <text x="32" y="46" font-family="Arial, sans-serif" font-size="6" font-weight="bold" text-anchor="middle" fill="#fff">SQL</text>
+</svg>
